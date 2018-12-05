@@ -1,4 +1,5 @@
 function inputScore(){
-    // var input = $("#score").val();
-    return input;
+   var input = $("#score").val();
+   //console.log(input)
+   return input;
 }
